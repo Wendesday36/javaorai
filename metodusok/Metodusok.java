@@ -16,5 +16,15 @@ public class Metodusok {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    public static void elso10szamosszeg() {
+      int osszeg = 0;
+        for (int i = 0; i < 10; i++) {
+            osszeg += i;
+            
+        }
+    }
+    public static void kiir(String szoveg) {
+        System.out.println(szoveg);
+    }
     
 }
